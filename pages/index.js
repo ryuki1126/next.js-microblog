@@ -26,7 +26,7 @@ export default function Home({allPostsData}) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <section>
-          <p className={utilStyle.headingMd}>Next.js学習中の弱々エンジニアです</p>
+          <p className={utilStyle.headingMd}>Next.js学習中のエンジニアです</p>
         </section>
         <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
           <h2>📝エンジニアのブログ</h2>
